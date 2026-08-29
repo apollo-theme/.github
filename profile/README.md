@@ -4,19 +4,29 @@
 
 ### Yet, just another color theme.
 
+**One color system. Two appearances: Apollo Dark and Apollo Light.**
+
+[![Appearances](https://img.shields.io/badge/appearances-Dark%20%2B%20Light-fabd2f?style=for-the-badge&labelColor=141617)](https://apollo-theme.github.io/#palette)
 [![Live Preview](https://img.shields.io/badge/preview-explore%20Apollo-fabd2f?style=for-the-badge&labelColor=141617)](https://apollo-theme.github.io/)
 [![Source of Truth](https://img.shields.io/badge/source-apollo--theme-d5c4a1?style=for-the-badge&labelColor=141617)](https://github.com/apollo-theme/apollo-theme)
 [![Integrations](https://img.shields.io/badge/integrations-17-83a598?style=for-the-badge&labelColor=141617)](https://apollo-theme.github.io/#ports)
 [![Build](https://img.shields.io/github/actions/workflow/status/apollo-theme/apollo-theme/ci.yml?branch=main&style=for-the-badge&label=build&labelColor=141617)](https://github.com/apollo-theme/apollo-theme/actions/workflows/ci.yml)
 [![License](https://img.shields.io/github/license/apollo-theme/apollo-theme?style=for-the-badge&labelColor=141617&color=b8bb26)](https://github.com/apollo-theme/apollo-theme/blob/main/LICENSE)
 
-[![Apollo Theme simulated terminal preview](https://raw.githubusercontent.com/apollo-theme/apollo-theme.github.io/main/previews/sonicterm.svg)](https://apollo-theme.github.io/)
-
-*Existing Apollo dark preview — Apollo Light previews will appear on the site after deployment.*
+<table>
+<tr>
+<th>Apollo Dark</th>
+<th>Apollo Light</th>
+</tr>
+<tr>
+<td><a href="https://apollo-theme.github.io/#app-sonicterm-dark"><img alt="Apollo Dark simulated terminal preview" src="https://raw.githubusercontent.com/apollo-theme/apollo-theme.github.io/main/previews/sonicterm.svg" width="440"></a></td>
+<td><a href="https://apollo-theme.github.io/#app-sonicterm-light"><img alt="Apollo Light simulated terminal preview" src="https://raw.githubusercontent.com/apollo-theme/apollo-theme.github.io/main/previews/sonicterm-light.svg" width="440"></a></td>
+</tr>
+</table>
 
 </div>
 
-Apollo is a high-contrast color system with **Dark and Light** appearances carried across 17 applications. Every port is independently installable, tested in its native format, and synchronized from canonical palettes.
+Apollo is a high-contrast color system with **Dark and Light** appearances carried across 17 applications. Existing `Apollo` names remain the Dark compatibility variant; Light is always named **Apollo Light**. Every port is independently installable, tested in its native format, and synchronized from canonical palettes.
 
 ## Signal palettes
 
