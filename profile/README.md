@@ -12,17 +12,18 @@
 
 [![Apollo Theme simulated terminal preview](https://raw.githubusercontent.com/apollo-theme/apollo-theme.github.io/main/previews/sonicterm.svg)](https://apollo-theme.github.io/)
 
-*Simulated preview — enter the [live flight deck](https://apollo-theme.github.io/) for all 17 integrations.*
+*Existing Apollo dark preview — Apollo Light previews will appear on the site after deployment.*
 
 </div>
 
-Apollo is one high-contrast dark color system carried across the interfaces where work happens. Every port is independently installable, tested in its native format, and synchronized from one canonical palette.
+Apollo is a high-contrast color system with **Dark and Light** appearances carried across 17 applications. Every port is independently installable, tested in its native format, and synchronized from canonical palettes.
 
-## Signal palette
+## Signal palettes
 
-| Canvas | Surface | Text | Focus | Error | Success | Info |
-| --- | --- | --- | --- | --- | --- | --- |
-| `#141617` | `#1d2021` | `#cfbc97` | `#fabd2f` | `#fb4934` | `#b8bb26` | `#83a598` |
+| Appearance | Canvas | Surface | Text | Focus | Error | Success | Info |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Apollo** | `#141617` | `#1d2021` | `#cfbc97` | `#fabd2f` | `#fb4934` | `#b8bb26` | `#83a598` |
+| **Apollo Light** | `#f9f5d7` | `#fbf1c7` | `#3c3836` | `#8a5200` | `#9d0006` | `#6b6700` | `#076678` |
 
 ## Choose your instrument
 
@@ -39,7 +40,7 @@ The exact colors, provenance, and synchronized repository map live in [`apollo-t
 
 ## Lineage
 
-Apollo stands on excellent prior art. Thank you to [Gruvbox](https://github.com/morhetz/gruvbox) for its enduring color language and [SonicTerm](https://github.com/D0n9X1n/SonicTerm) for the high-contrast terminal palette that became Apollo’s starting point.
+Apollo stands on excellent prior art. Thank you to [Gruvbox](https://github.com/morhetz/gruvbox) for its enduring dark and light color language and [SonicTerm](https://github.com/D0n9X1n/SonicTerm) for the high-contrast terminal palette that became Apollo’s dark starting point.
 
 <div align="center">
 
