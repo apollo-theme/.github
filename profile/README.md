@@ -42,7 +42,7 @@ Apollo is a high-contrast color system with **Dark and Light** appearances carri
 | **Terminals** | [SonicTerm](https://github.com/apollo-theme/sonicterm-apollo-theme) · [WezTerm](https://github.com/apollo-theme/wezterm-apollo-theme) · [iTerm2](https://github.com/apollo-theme/iterm2-apollo-theme) · [Apple Terminal](https://github.com/apollo-theme/apple-terminal-apollo-theme) · [Alacritty](https://github.com/apollo-theme/alacritty-apollo-theme) · [Windows Terminal](https://github.com/apollo-theme/windows-terminal-apollo-theme) |
 | **Editors & IDEs** | [Visual Studio Code](https://github.com/apollo-theme/vscode-apollo-theme) · [Visual Studio](https://github.com/apollo-theme/visual-studio-apollo-theme) · [Vim](https://github.com/apollo-theme/vim-apollo-theme) · [Neovim](https://github.com/apollo-theme/nvim-apollo-theme) · [Xcode](https://github.com/apollo-theme/xcode-apollo-theme) |
 | **Shell & CLI** | [PowerShell](https://github.com/apollo-theme/powershell-apollo-theme) · [tmux](https://github.com/apollo-theme/tmux-apollo-theme) · [RMUX](https://github.com/apollo-theme/rmux-apollo-theme) · [bat](https://github.com/apollo-theme/bat-apollo-theme) · [eza](https://github.com/apollo-theme/eza-apollo-theme) |
-| **Browser** | [Firefox Apollo Theme](https://github.com/apollo-theme/firefox-apollo-theme) |
+| **Browser** | [Apollo Theme for Firefox](https://github.com/apollo-theme/firefox-apollo-theme) |
 
 ## One source, many ports
 
