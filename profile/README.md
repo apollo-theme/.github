@@ -26,13 +26,13 @@
 
 </div>
 
-Apollo is a high-contrast color system with **Dark and Light** appearances carried across 17 applications. Existing `Apollo` names remain the Dark compatibility variant; Light is always named **Apollo Light**. Every port is independently installable, tested in its native format, and synchronized from canonical palettes.
+Apollo is a high-contrast color system with **Dark and Light** appearances carried across 17 applications. Existing unsuffixed `Apollo` names remain Apollo Dark compatibility identities; Light is always named **Apollo Light**. Every port is independently installable, tested in its native format, and synchronized from canonical palettes.
 
 ## Signal palettes
 
 | Appearance | Canvas | Surface | Text | Focus | Error | Success | Info |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Apollo** | `#141617` | `#1d2021` | `#cfbc97` | `#fabd2f` | `#fb4934` | `#b8bb26` | `#83a598` |
+| **Apollo Dark** | `#141617` | `#1d2021` | `#cfbc97` | `#fabd2f` | `#fb4934` | `#b8bb26` | `#83a598` |
 | **Apollo Light** | `#f9f5d7` | `#fbf1c7` | `#3c3836` | `#8a5200` | `#9d0006` | `#6b6700` | `#076678` |
 
 ## Choose your instrument
